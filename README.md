@@ -1,0 +1,1 @@
+# quarkus-silence-access-logs
